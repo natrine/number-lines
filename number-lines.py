@@ -2,7 +2,7 @@
 	this is a tool to number lines for every 10 words for AP Lang.
 	this program was made by natrine who cannot code so Lol.
 
-	BEFORE USING, remove or replace non-ascii characters from your txt file (with ctrl + h or whatever you use to replace) with ascii characters (ex. turning ” into ", ’ into ')
+	BEFORE USING, remove or replace non-ascii characters in your txt file (with ctrl + h or whatever you use to replace) with ascii characters (ex. turning ” into ", ’ into ')
 	because the commands i use don't recognize some of them
 '''
 
