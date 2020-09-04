@@ -13,6 +13,6 @@ how to use
 the filename
 
 ### what YOU can change, but don't have to, to use this program:
-the dataStripping command and the dataOriginal command
+the dataStrip command and the dataOriginal command
 
 if you want to make this program better, make a fork of this then change whatever you want Lol. 
