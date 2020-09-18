@@ -12,7 +12,8 @@ how to use
 ### what YOU have to change to use this program:
 the filename
 
-### what YOU can change, but don't have to, to use this program:
+### what YOU can change, but don't have to, to use this program (this is SUPER OPTIONAL):
 the dataStrip command and the dataOriginal command
+>i only made these bc i was bored, don't use or worry about them if you just wanna get your lines numbered
 
-if you want to make this program better, make a fork of this then change whatever you want Lol. 
+if you want to make this program better, make a fork of this then change whatever you want Lol.
